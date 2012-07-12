@@ -32,11 +32,11 @@
 	<h3>Beta 2.something</h3>
 	<p>This hack was hacked during Hackathon at STPLN 2012.<br/>
 	There are NO copyrights on this code.<br/>
-	</p><p>If you want it, mail me at robert(at)pardalis.se<br/>
-	If you have comments, you know what to do ;)<p>
+	</p><p>If you want it, get it at <a href="https://github.com/roberteliason/laserbox" target="_blank">GitHub</a><br/>
+	If you have comments, you know what to do ;)</p>
 	<p>Suggestions are welcome!</p>
 	<p><b>TODO:</b><br>
-	Add ability to add a press fit margin for no glue assembly.<br/>
+	Add ability to add a press fit margin for no glue assembly. (Needs testing) <br/>
 	Fix the orientation of the shapes so that the surface on top of the material becomes the outside of the box.<br/>
 	Decimal values must be tested.
 	</p>
