@@ -1,0 +1,46 @@
+body
+{
+	font-family: Arial, sans-serif;
+	background-image: url('../img/boxes.png');
+}
+
+form 
+{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	background-color: #e0e0e0;
+	padding: 5px 15px 30px 15px;
+	border: 1px solid #999;
+}
+
+label
+{
+	margin-top: 3px;
+	font-size: 11px;
+	display: block;
+	width: 200px;
+}
+
+fieldset 
+{
+	border: 1px solid #a0a0a0;
+}
+
+#generate 
+{
+	float: right;
+}
+
+#info
+{
+	font-size: 12px;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	background-color: #CCFF99;
+	padding: 5px 15px 20px 15px;
+	border: 1px solid #999;
+}
